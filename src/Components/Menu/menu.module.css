@@ -1,0 +1,45 @@
+.menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 40px;
+  background-color: white;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.menu-content {
+  display: flex;
+  align-items: center;
+}
+
+.menu img {
+  width: 50px;
+  margin-right: 10px;
+}
+
+.nome h2 {
+  font-size: 24px;
+}
+
+.verde {
+  color: green;
+}
+
+.laranja {
+  color: orange;
+}
+
+.botao {
+  background-color: orange;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin-left: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.botao:hover {
+  background-color: darkorange;
+}

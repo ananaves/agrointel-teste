@@ -1,0 +1,15 @@
+#root {
+  --branco: #FFFFFF;
+  --verde-escuro: #2A5922;
+  --verde-claro: #318522;
+  --azul: #002782;
+  --preto: #000000;
+  --marrom: #513D18;
+  --laranja: #F46E00;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
