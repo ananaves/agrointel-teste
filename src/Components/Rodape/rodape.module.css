@@ -1,0 +1,15 @@
+footer {
+    background-color: var(--verde-escuro);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+img {
+    width: 30px;
+
+}
+
+.info-adicional img {
+
+}

@@ -1,6 +1,6 @@
 import estilo from './inicio.module.css';
 // import imgCirculo from '../../assets/Img/';
-import img1 from '../../assets/Img/imagem (2).jpg';
+import img1 from '../../assets/Img/imagem.jpg';
 import img2 from '../../assets/Img/imagem.jpg';
 import img3 from '../../assets/Img/imagem.webp';
 import icone1 from '../../assets/Img/qualidade.png';
@@ -28,6 +28,8 @@ function Inicio() {
                     <img src={imgCirculo} />
                 </div> */}
 
+            </div>
+
                 <div className="destaques">
                     <div className='qualidade'>
                         <img src={icone1} />
@@ -47,7 +49,7 @@ function Inicio() {
                     </div>
                 </div>
 
-            </div>
+            
 
             <section className="imagens">
                 <img src={img1} />

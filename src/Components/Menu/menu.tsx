@@ -8,10 +8,7 @@ function Menu() {
         <div className="menu-content">
           <img src={logo} alt="AgroIntel Logo" />
           <div className="nome">
-            <h2>
-              <span className="verde">Agro</span>
-              <span className="laranja">Intel</span>
-            </h2>
+              <h2>AgroIntel</h2>
             <p>Planeje sua safra com inteligência e colha melhores resultados!</p>
           </div>
         </div>
