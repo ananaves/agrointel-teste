@@ -1,4 +1,4 @@
-import estilo from './inicio.module.css';
+import estilo from './inicio.module.css'
 // import imgCirculo from '../../assets/Img/';
 import img1 from '../../assets/Img/imagem.jpg';
 import img2 from '../../assets/Img/imagem.jpg';
@@ -12,7 +12,7 @@ import icone4 from '../../assets/Img/planejamento.png';
 function Inicio() {
     return (
         <section className={estilo.inicio}>
-            <div className="sobre-texto">
+            <div className='sobre-texto'>
                 <h2>Sobre nós</h2>
                 <h3>Inteligência que transforma o seu planejamento de safra</h3>
                 <p> O AgroIntel é um software de planejamento agrícola com inteligência artificial,

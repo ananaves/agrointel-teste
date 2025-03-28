@@ -5,8 +5,8 @@ import logo from '../../assets/Img/AgroIntel.png'
 function Menu() {
     return (
       <header className={estilo.menu}>
+        <img src={logo} alt="AgroIntel Logo" />
         <div className="menu-content">
-          <img src={logo} alt="AgroIntel Logo" />
           <div className="nome">
               <h2>AgroIntel</h2>
             <p>Planeje sua safra com inteligência e colha melhores resultados!</p>

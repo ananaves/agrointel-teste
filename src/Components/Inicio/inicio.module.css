@@ -1,41 +1,11 @@
+.inicio {
+  padding: 20px;
+}
 
-  .sobre-texto {
-    background-color: #2A5922;
-  }
-  
-  .sobre-texto h2 {
-    color: green;
-    font-size: 28px;
-  }
-  
-  .sobre-texto h3 {
-    font-size: 22px;
-    margin-top: 10px;
-  }
-  
-  .sobre-texto p {
-    margin-top: 10px;
-    line-height: 1.5;
-  }
-  
-  .icones {
-    margin-top: 20px;
-  }
-  
-  .icones div {
-    display: flex;
-    align-items: center;
-    margin-top: 10px;
-  }
-  
-  .icones span {
-    margin-right: 10px;
-    color: green;
-    font-size: 18px;
-  }
-  
-  .sobre-imagem img {
-    width: 400px;
-    border-radius: 10px;
-  }
-  
+.destaques {
+  background-color: var(--verde-escuro);
+}
+
+.sobre-texto {
+  background-color: var(--verde-escuro);
+}
