@@ -4,6 +4,7 @@
   align-items: center;
   background-color: rgb(255, 255, 255);
   box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  position: fixed;
 }
 
 .menu-content {
@@ -20,7 +21,7 @@
 }
 
 .menu p {
-  color: var(--cinza);
+  color: var(--cinza-escuro);
   margin-top: -15px;
   font-size: x-small;
   margin-bottom: 24px;

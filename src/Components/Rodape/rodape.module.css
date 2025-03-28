@@ -8,10 +8,11 @@ footer {
     width: 100%;
     text-align:center;
     font-size: 12px;
+    color: var(--branco);
 }
 
 
-img {
+footer img {
     width: 10px;
     background-color: var(--branco);
     padding: 5px;

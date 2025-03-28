@@ -1,11 +1,91 @@
 .inicio {
   padding: 20px;
+  padding-top: 100px;
+}
+
+.sobretexto{
+  background-color: var(--verde-claro);
+  margin: -20px;
+  padding: 20px;
+}
+
+.sobretexto{
+  color: var(--branco);
+}
+
+.sobretexto p {
+  width: 55%;
+}
+
+.imagem {
+  width: 35%;
+  display: flex;
+  float: right;
+  margin-top: -18rem;
+  margin-right: 60px;
+  border-radius: 50%;
 }
 
 .destaques {
-  background-color: var(--verde-escuro);
+  margin-top: 4rem;
+  margin-left: 2rem;
 }
 
-.sobre-texto {
+.destaques img {
+  width: 2%;
+  display: flex;
   background-color: var(--verde-escuro);
+  padding: 6px;
+  border-radius: 50%;
+
+}
+
+.destaques p{
+  margin-left: 3rem;
+  margin-top: -1.8rem;
+  padding-bottom: 2rem;
+}
+
+.adaptacao{
+  margin-left: 32%;
+  margin-top: -13%;
+}
+
+.planejamento {
+  margin-left: 32% ;
+}
+
+.adaptacao img {
+  width: 22px;
+}
+
+.planejamento img {
+  width: 22px;
+}
+
+.imagens img {
+  width: 25%;
+  margin-left:40px;
+}
+
+.imagens {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.depoimentos {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--cinza);
+  margin-left: 15rem;
+  margin-right: 15rem;
+  border-radius: 20px;
+}
+
+.depoimentos h5 {
+  color: var(--verde-escuro);
 }
