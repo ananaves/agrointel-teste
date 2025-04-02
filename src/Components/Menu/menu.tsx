@@ -13,8 +13,8 @@ function Menu() {
           </div>
         </div>
         <nav>
-          <button className="botao">FUNCIONALIDADES</button>
-          <button className="botao">CHAT IA</button>
+          <button className="botao" type="submit">FUNCIONALIDAES</button>
+          <button className="botao" type="submit">CHAT IA</button>
         </nav>
       </header>
     );
