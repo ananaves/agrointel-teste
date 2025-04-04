@@ -1,12 +1,12 @@
 import './App.css'
-import PgInicio from './assets/Pages/Pg-inicio/PgInicio';
+import AppRoutes from './routes';
 
 function App() {
   return(
       <>
-        <PgInicio/>
+      <AppRoutes />
       </>
   );
 }
 
-export default App;
+export default App

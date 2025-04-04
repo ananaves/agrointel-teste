@@ -13,7 +13,7 @@ function Inicio() {
     return (
         <section className={estilo.inicio}>
             <div className={estilo.sobretexto}>
-                <h2>Sobre nós</h2>
+                <h1>Sobre nós</h1>
                 <h4>Inteligência que transforma o seu planejamento de safra</h4>
                 <p> O AgroIntel é um software de planejamento agrícola com inteligência artificial,
                     desenvolvido para produtores de médio porte que buscam mais eficiência e rentabilidade.</p>
@@ -65,8 +65,6 @@ function Inicio() {
                     <p className="estrelas">⭐⭐⭐⭐</p>
                 </div>
             </section>
-
-
         </section>
     );
 }

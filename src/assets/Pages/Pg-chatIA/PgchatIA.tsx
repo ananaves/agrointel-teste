@@ -1,11 +1,13 @@
-// import Menu from "../../../Components/Menu/menu";
+import Menu from "../../../Components/Menu/menu";
+import ChatIA from "../../../Components/ChatIA/chatIA";
 
-// function ChatIA() {
-//     return(
-//         <>
-//         <Menu/>
-//         </>
-//     );
-// }
+function PgChatIA() {
+    return(
+        <>
+        <Menu/>
+        <ChatIA/>
+        </>
+    );
+}
 
-// export default ChatIA;
+export default PgChatIA;

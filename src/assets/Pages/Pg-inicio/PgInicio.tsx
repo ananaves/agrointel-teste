@@ -6,10 +6,10 @@ function PgInicio() {
     return(
         <>
             <Menu/>
-           <Inicio/>
+            <Inicio/>
            <Rodape/>
         </>
     );
 }
 
-export default PgInicio;
+export default PgInicio
