@@ -1,0 +1,73 @@
+.funcio {
+    background-color: #2A5922;
+    padding: 2.86%;
+}
+
+.titulo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+    margin-left: 45%;
+    color: #ffff;
+
+}
+
+.conteiners {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5rem;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.conteinerEsq,
+.conteinerDir {
+    background-color: #ffff;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 15%;
+    padding: 30px
+}
+
+.botoes a {
+    font-size: 20px;
+    text-decoration: none;
+    color: var(--branco);
+}
+
+.botao1,
+.botao2 {
+    margin-top: 10px;
+    background-color: var(--laranja);
+    border-radius: 20px;
+    padding:10px 50px;
+}
+
+.botao1:hover,
+.botao2:hover {
+    background-color: #d15e00;
+}
+
+.botoes {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.botao1 {
+    margin-right: 18%;
+}
+
+.conteinerDir img {
+    width: 120px;
+}
+
+.conteinerEsq img {
+    width: 90px;
+    margin-bottom: 30px;
+}
